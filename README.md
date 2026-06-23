@@ -21,7 +21,7 @@ Request  ->  GET /<route>?<params>
 1. Push this folder to a GitHub repo
 2. Go to app.koyeb.com -> Create Service -> GitHub
 3. Select repo -> Build type: **Dockerfile**
-4. Port: **8000**
+4. Port: **7860**
 5. Deploy
 
 Done. Your URL will be:
